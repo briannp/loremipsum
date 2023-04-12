@@ -1,0 +1,5 @@
+El archivo loremipsum-1.txt contiene 17 lineas.
+El archivo loremipsum-2.txt contiene 16 lineas.
+El archivo loremipsum-3.txt contiene 13 lineas.
+El archivo loremipsum-4.txt contiene 7 lineas.
+El archivo loremipsum-5.txt contiene 3 lineas.
